@@ -1,0 +1,9 @@
+Installer DB Browser for SQLite :
+
+1) Ouvrir (ou créer) la BD
+2) Importer nos données Excel (qui représentent les données scrapper). J'ai préféré séparer mes données dans des fichiers excel différent 
+(chaque fichier correspond à une table).
+3) Personnaliser les tables (en renommant les colonnes (par défaut c'est field1, field2, etc. donc les remplacer par des noms significatifs et logiques.
+4) NE SURTOUT PAS OUBLIER DE VERIFIER LES CLES ETRANGERES SINON IMPOSSIBLE D'AVANCER.
+
+Une fois cela fait et finir pour chaque table la BD est complète et faite, prête à être utiliser
